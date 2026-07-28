@@ -56,7 +56,7 @@ dev = [
     "basedpyright>=1.31.7",
     "ruff==0.15.12",
     # Build/Release
-    "setuptools==82.0.1",
+    "setuptools==83.0.0",
     "twine==6.2.0",
     "build==1.5.0",
     "gnumake>=4.4.1",
